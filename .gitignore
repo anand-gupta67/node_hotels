@@ -1,3 +1,4 @@
 #ignore node_nodules directory
 node_modules/
+.env
 #other entries
